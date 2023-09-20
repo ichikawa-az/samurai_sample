@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../lesson"
+		},
+		{
+			"path": "../HTML_CSS"
+		},
+		{
+			"path": "../kadai/kadai_005"
+		},
+		{
+			"path": "../kadai"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson"
+	}
+}
